@@ -10,7 +10,7 @@ Mathematics grad → CS student (Software Dev focus). Learning Data Science / ML
 
 
 ## Tech snapshot
-**Languages**: Python · C++ · Java · TypeScript/JS  
+**Languages**: Python · C++ · Java
 **Tools**: VS Code · Visual Studio · Git/GitHub · Jupyter  
 **Data**: NumPy · Pandas · Matplotlib · SQL
 
