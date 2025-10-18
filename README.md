@@ -2,7 +2,7 @@
 
 Mathematics grad → CS student (Software Dev focus). Learning Data Science / ML and sharpening C++ & Python through practical DSA projects.
 
-- 🔭 **Currently**: Building small C++ data-structure projects (hash table, BST) and TypeScript fundamentals.
+- 🔭 **Currently**: Building small C++ data-structure projects (hash table, BST) and fundamentals.
 - 🎯 **2025 goals**: 3 portfolio projects (1 DS/ML, 1 C++ systems, 1 web), consistent LeetCode weekly.
 - 📚 **Learning**: Python for DS/ML (NumPy/Pandas), C++ DSA, Git/GitHub fundamentals/workflows.
 
