@@ -1,30 +1,40 @@
-# Hi, I'm Edward 👋
+# Hi, I'm Edward McCauley
 
-Mathematics grad → CS student (Software Dev focus). Learning Data Science / ML and sharpening C++ & Python through practical DSA projects.
+I am finishing my Bachelor of Science in Computer Science at Southern New Hampshire University. My background includes mathematics, electronics, field service engineering, troubleshooting, and military technical experience.
 
-- 🔭 **Currently**: Building small C++ data-structure projects (hash table, BST) and fundamentals.
-- 🎯 **2025 goals**: 3 portfolio projects (1 DS/ML, 1 C++ systems, 1 web), consistent LeetCode weekly.
-- 📚 **Learning**: Python for DS/ML (NumPy/Pandas), C++ DSA, Git/GitHub fundamentals/workflows.
+My current focus is software engineering, cloud infrastructure, networking, automation, and security. I enjoy understanding how systems work, improving existing solutions, and building software that is practical, maintainable, and secure.
 
-## Featured projects
+## Current Focus
 
+* Completing my CS 499 Computer Science Capstone ePortfolio
+* Building full stack development skills
+* Strengthening Python, JavaScript, databases, and secure coding practices
+* Learning cloud, networking, Linux, automation, and DevOps tools
 
-## Tech snapshot
-**Languages**: Python · C++ · Java
-**Tools**: VS Code · Visual Studio · Git/GitHub · Jupyter  
-**Data**: NumPy · Pandas · Matplotlib · SQL
+## Capstone Project
 
-<!-- Optional icon badges (shields.io). Remove if you prefer plain text. -->
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
--->
+For my CS 499 capstone, I am enhancing my CS-340 Grazioso Salvare Dashboard project. This project uses Python and MongoDB to support data-driven decision making through a dashboard application.
 
-## About me
-Field Service Engineer. I like learning by **building** and **debugging**—following the “bouncing ball” of code execution to understand systems deeply.
+Planned enhancement areas include:
 
-📫 **Contact**: edward.j.mccauley@gmail.com · [LinkedIn](https://www.linkedin.com/in/edward-mccauley-3845ab8b/)
+* Software design and engineering
+* Algorithms and data structures
+* Databases
+* Documentation and code review
+* Security-focused improvements
 
+## Technical Skills
 
+**Languages:** Python, JavaScript, C++, Java, SQL
+**Databases:** MongoDB, MySQL, SQL
+**Tools:** Git, GitHub, GitHub Pages, VS Code, Visual Studio, Linux
+**Interests:** Cloud infrastructure, networking, automation, secure coding
+
+## About Me
+
+I like learning by building, testing, troubleshooting, and improving systems. My long-term goal is to move into work that combines software development, cloud infrastructure, networking, automation, and security.
+
+## Contact
+
+* GitHub: @edward-mccauley
+* Email: edward.mccauley@snhu.edu
